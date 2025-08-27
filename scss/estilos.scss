@@ -123,21 +123,16 @@ header{
 }
 
 .pagina-inicio {
-  
-  .row.align-items-center {
-    margin-bottom: 2rem;
-}
-}
-.inicio-item {
+
+.row.align-items-center {
+    margin-bottom: 2rem;}
+    .inicio-item {
   @include miflex(column, center, center)
-    margin-bottom: 2rem;
-}
-
-.text-content {
+    margin-bottom: 2rem;} 
+    .text-content {
     margin-top: 1rem;
-    text-align: center;
+    text-align: center;}
 }
-
 
 /* --  TIENDA -- */
 
