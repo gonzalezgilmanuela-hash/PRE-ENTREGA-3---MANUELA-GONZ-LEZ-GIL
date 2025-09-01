@@ -39,8 +39,10 @@ h1, h2 {
 }
 
 span {
+  .text-primary {
     color: $color-secondary;
   }
+}
 
 a {
     text-decoration: none;
