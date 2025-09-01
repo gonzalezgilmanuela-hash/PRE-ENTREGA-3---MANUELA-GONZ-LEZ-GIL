@@ -110,15 +110,14 @@ header{
 
 .logo-container {
   width: 100%;
-  text-align: center; 
+  align-items: center; 
   margin-top: 1rem; 
   
   .logo {
     @extend img;
     width: 100%; 
     max-width: 500px; 
-    height: auto; 
-    display: inline-block;
+    height: auto;
   }
 }
 
