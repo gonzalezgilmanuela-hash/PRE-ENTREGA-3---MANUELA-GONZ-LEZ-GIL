@@ -125,8 +125,9 @@ header{
 
 .row.align-items-center {
     margin-bottom: 2rem;}
+    
     .inicio-item {
-  @include miflex(column, center, center)
+  @include miflex(column, center, center)}
     .text-content {
     margin-top: 1rem;
     text-align: center;}
